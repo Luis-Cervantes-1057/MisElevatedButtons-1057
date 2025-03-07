@@ -1,6 +1,8 @@
 # myapp
 
-A new Flutter project.
+## Salida 
+![image](https://github.com/user-attachments/assets/0e0ae0dc-f76f-43f9-8293-28044bf180c7)
+
 
 ## Getting Started
 
